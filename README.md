@@ -1,16 +1,2 @@
-
-#### COPIA DEL REPOSITORIO GITHUB (OPCIONAL)
-
-Para editar y conservar tu código en github, se recomienda, hacer FORK del repositorio en tu GITHUB. 
-
-Para hacer FORK, 
-
-- Accede a https://github.com/griu/mbdds_fc20.git
-- Introduce tu usuario y contraseña y clica el botón de FORK.
-
-A partir de este momento, siempre que tengas que clonar el repositorio, tu eliges si trabajar con el común, o bien, con tu propio repositorio:
-
-- https://github.com/griu/mbdds_fc20.git
-- https://github.com/TU_USUARIO/mbdds_fc20.git
-
-Revisa los [README de R](R/README.md) y [README de Python](Python/README.md) para completar la plataforma RSTUDIO-JUPYTER-COLAB.
+ESTO ES UNA COPIA DE UN DIRECTORIO ORIGINAL: https://github.com/griu/mbdds_fc20
+THIS IS A COPY OF AN ORIGINAL DIRECTORY: https://github.com/griu/mbdds_fc20 
