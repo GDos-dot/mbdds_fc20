@@ -1,8 +1,0 @@
-ipykernel
-pandas
-matplotlib
-seaborn
-lxml
-cssselect
-bs4
-selenium
